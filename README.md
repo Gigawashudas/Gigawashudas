@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gigawashudas
 - 👀 I’m interested in ... Learning
-- 🌱 I’m currently learning ... JS
+- 🌱 I’m currently learning ... FullStack
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... +8801810013848
 - 😄 Pronouns: ... Jiggashu
